@@ -4,7 +4,7 @@
             $(this).text("Свернуть");
             $(".complete").show();
         }, function(){
-            $(this).text("Читать далее...");
+            $(this).text("Читать далее");
             $(".complete").hide();
         });
     });
